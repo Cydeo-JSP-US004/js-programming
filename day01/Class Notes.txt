@@ -1,0 +1,33 @@
+JavaScript Programming Day01
+
+Topics:
+    Installations & Setups
+    Variables
+    let vs var
+    Operators
+    If Statements
+
+    Perplexity AI Intro
+
+
+Next Class:
+        Loops
+        String
+        Array
+        Functions
+        Class & Objects
+        
+        Tabnine - AI Coding Tool (Code generation, Documentation)
+
+Next Next Class:
+        Errors
+        Inheritance
+        Aysnc & Await
+        Promises
+
+
+VS COde Settings:
+    1. Auto Save ====> afterDelay
+    2. Autocomplete ====> Enable for both JavaScript & TypeScript
+    3. font
+    4. clear previous output ===> Enabled
