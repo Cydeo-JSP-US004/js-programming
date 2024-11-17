@@ -14,3 +14,10 @@ Topics:
 Formatting the codes in VS Code:
     Mac: Option + Shift + F
     Windows: Alt + Shift + F
+
+-------------------------
+
+Prompt 1:
+    I have a string variable in JavaScript, and I need to replace all the occurrences of a specific word in the string. how can I use the replace method to replace all the matchings?
+
+    I want you to only give me the direct answer, do not write anything extra in your response.
