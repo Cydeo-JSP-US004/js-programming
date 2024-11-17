@@ -1,0 +1,16 @@
+JavaScript Programming Day02
+
+Topics:
+    Loops
+    String
+    Array
+    Functions
+    Importing
+    Class & Objects
+
+    Tabnine - AI Coding Tool (Code generation, Documentation)
+
+
+Formatting the codes in VS Code:
+    Mac: Option + Shift + F
+    Windows: Alt + Shift + F
