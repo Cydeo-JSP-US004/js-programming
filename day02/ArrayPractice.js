@@ -35,3 +35,16 @@ console.log(students);
 students.pop();
 
 console.log(students);
+
+console.log("--------------------------------------");
+
+for(let student of students){
+    console.log(student);
+}
+
+console.log("--------------------------------------");
+
+for(let i = students.length-1; i >= 0 ; i--){
+    console.log(students[i]);
+}
+
