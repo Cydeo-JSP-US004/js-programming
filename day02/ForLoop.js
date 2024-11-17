@@ -20,22 +20,20 @@ for (let i = 1; i < 8; i++) {
 console.log("----------------------------------------------------------------");
 
 for (let i = 1; i < 8; i++) {
-    if(i == 2 || i == 6){
-        continue; // jumps to next iteration (skips the current iteration)
-    }
-    console.log(i);
-}
-
-
-console.log("----------------------------------------------------------------");
-
-while(false){
-    console.log("Hello");
+  if (i == 2 || i == 6) {
+    continue; // jumps to next iteration (skips the current iteration)
+  }
+  console.log(i);
 }
 
 console.log("----------------------------------------------------------------");
 
-do{
-    console.log("Hello");
-}while(false);
+while (false) {
+  console.log("Hello");
+}
 
+console.log("----------------------------------------------------------------");
+
+do {
+  console.log("Hello");
+} while (false);

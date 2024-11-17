@@ -14,7 +14,7 @@ students.push("Suleyman");
 
 console.log(students);
 
-students[students.length-3] = "Josh";
+students[students.length - 3] = "Josh";
 
 console.log(students);
 
@@ -38,13 +38,12 @@ console.log(students);
 
 console.log("--------------------------------------");
 
-for(let student of students){
-    console.log(student);
+for (let student of students) {
+  console.log(student);
 }
 
 console.log("--------------------------------------");
 
-for(let i = students.length-1; i >= 0 ; i--){
-    console.log(students[i]);
+for (let i = students.length - 1; i >= 0; i--) {
+  console.log(students[i]);
 }
-
