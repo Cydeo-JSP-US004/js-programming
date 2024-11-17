@@ -50,4 +50,35 @@ x= x.replace(new RegExp("Python", 'g'), "JavaScript");
 
 console.log(x);
 
+console.log("---------------------------------");
+
+let email = "cydeoschool@hotmail.com";
+
+let domain = email.substring(email.indexOf("@") + 1, email.lastIndexOf("."));
+
+console.log(domain);
+
+
+console.log("---------------------------------");
+
+let course  = "Playwright";
+
+for(let i = 0; i < course.length; i++){
+    console.log(course[i]);
+}
+
+console.log("---------------------------------");
+
+let employeeName = "Anam";
+let employeeAge = 28;
+
+console.log("Employee name is " + employeeName + ", and employee's age is " + employeeAge + " years old.");
+
+console.log(`Employee name is ${employeeName}, and ${employeeName}'s age is ${employeeAge} years old.`);
+
+let title = "Google";
+
+console.log(`Title of the page is ${title}`);
+
+
 
