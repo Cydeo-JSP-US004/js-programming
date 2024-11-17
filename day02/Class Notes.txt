@@ -6,7 +6,6 @@ Topics:
     Array
     Functions
     Importing
-    Class & Objects
 
     Tabnine - AI Coding Tool (Code generation, Documentation)
 
@@ -14,6 +13,19 @@ Topics:
 Formatting the codes in VS Code:
     Mac: Option + Shift + F
     Windows: Alt + Shift + F
+
+
+Next Class:
+    Class & Objects
+    Inheritance
+    Error
+    Tabnine AI
+
+
+Next Next Class:
+    Promises
+    Async & Await
+    Playwright Intro
 
 -------------------------
 
