@@ -20,3 +20,5 @@ function calculate(num1 = 0, num2 = 0, operator = "+") {
     return 0;
   }
 }
+
+module.exports = {square, cube, calculate}
