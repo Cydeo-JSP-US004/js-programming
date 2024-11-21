@@ -121,7 +121,55 @@ for (let i = 0; i < duplicates.length; i++) {
 
 console.log("Unique numbers array:", uniqueNumbers);
 
+console.log("----------------------------------------------------------------");
 
+/*
+Create a class named Item with the following requirments:
+  Attributes:
+    itemName, price, quantity
+
+  Methods:
+    constructor: initialize all the fields.
+    calculateTotalPrice: returns the total price of the item (price * quantity).
+*/
+
+
+/**
+ * Represents an item with a name, price, and quantity.
+ *
+ * @class Item
+ * @constructor
+ * @param {string} itemName - The name of the item.
+ * @param {number} price - The price of the item.
+ * @param {number} quantity - The quantity of the item.
+ */
+class Item {
+
+  constructor(itemName, price, quantity) {
+    this.itemName = itemName;
+    this.price = price;
+    this.quantity = quantity;
+  }
+
+  /**
+   * Calculates the total price of the item by multiplying the price by the quantity.
+   *
+   * @method calculateTotalPrice
+   * @returns {number} The total price of the item.
+   */
+  calculateTotalPrice() {
+    return this.price * this.quantity;
+  }
+  
+}
+
+let item1 = new Item("Shirt", 20, 5);
+console.log(item1);
+console.log("Total price for item1:", item1.calculateTotalPrice());
+
+let item2 = new Item("Pants", 30, 3);
+console.log(item2);
+console.log("Total price for item2:", item2.calculateTotalPrice());
 
 
 
