@@ -5,10 +5,10 @@ Topics:
     Tabnine - AI Coding Tool (Prompt template, debug)
     Class & Objects
 	Inheritance
-	Errors
 
 
 Next Class:
+    Errors
     Promises
 	Async & Await
     Introduction to Playwright
