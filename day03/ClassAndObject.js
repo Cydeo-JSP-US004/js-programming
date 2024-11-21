@@ -25,5 +25,8 @@ console.log(employee2);
 employee1.work();
 employee2.work();
 
+employee1.salary = 120_000;
+employee2.salary = 130_000;
+
 
 
