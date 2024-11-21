@@ -122,6 +122,6 @@ for (let i = 0; i < duplicates.length; i++) {
 console.log("Unique numbers array:", uniqueNumbers);
 
 
-// come back at 8:10 pm
+
 
 
